@@ -4,3 +4,4 @@ Outils:
 -Excel
 -GanttProject
 -Canva
+-Word
